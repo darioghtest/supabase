@@ -1178,5 +1178,13 @@
     "position": "VP of Product, Engineering & Design",
     "author_url": "https://www.linkedin.com/in/hgmnz/",
     "author_image_url": "/images/blog/avatars/harold-gimenez.jpg"
+  },
+  {
+    "author": "Paragraph Team",
+    "author_id": "paragraph-team",
+    "author_image_url": "https://github.com/paragraph-xyz.png",
+    "author_url": "https://x.com/paragraph_xyz",
+    "position": "Paragraph",
+    "username": "paragraph-xyz"
   }
 ]
